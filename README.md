@@ -1,5 +1,5 @@
 # Template Counter
-Tempalte project
+Template project
 
 ## Description
 This project is a template for vannila js + vite + vitest setup
